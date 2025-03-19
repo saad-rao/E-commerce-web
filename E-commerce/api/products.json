@@ -7,7 +7,7 @@
       "price": 999.99,
       "stock": 50,
       "description": "small, portable earphones designed to be inserted into the ear canal, allowing users to listen to audio privately from devices like phones or computers",
-      "image": "/images/product-1.webp"
+      "image": "./images/product-1.webp"
     },
     {
       "id": 2,
